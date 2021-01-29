@@ -3,9 +3,9 @@
 <img align='right' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 <p><em>Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tedros-tesfay-489422111)](https://www.linkedin.com/in/tedros-tesfay-489422111)
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tedros12859799)](https://twitter.com/Tedros12859799)
-[![ThePracticalDev Badge](https://img.shields.io/badge/-misselliev-0A0A0A?style=flat-square&labelColor=black&logo=dev.to&link=https://hh.ru/resume/74ef32b2ff07987b2e0039ed1f3038376f7371)](https://hh.ru/resume/74ef32b2ff07987b2e0039ed1f3038376f7371)
+[![Linkedin Badge](https://www.linkedin.com/in/tedros-tesfay-489422111)
+[![Twitter Badge](https://twitter.com/Tedros12859799)
+[![RedHunter Badge](https://hh.ru/resume/74ef32b2ff07987b2e0039ed1f3038376f7371)
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
