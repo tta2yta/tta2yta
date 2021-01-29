@@ -9,7 +9,7 @@
 
 [RedHunter Badge](https://hh.ru/resume/74ef32b2ff07987b2e0039ed1f3038376f7371)
 
-### <img src="i/pic/picture-tedros-tesfay-andemichael.jpg" width="50"> A little more about me...  
+### <img src="./pic/picture-tedros-tesfay-andemichael.jpg" width="50"> A little more about me...  
 
 ```javascript
 const eliVillalejos = {
