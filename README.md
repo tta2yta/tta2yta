@@ -4,7 +4,9 @@
 <p><em>Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [Linkedin Badge](https://www.linkedin.com/in/tedros-tesfay-489422111)
+
 [Twitter Badge](https://twitter.com/Tedros12859799)
+
 [RedHunter Badge](https://hh.ru/resume/74ef32b2ff07987b2e0039ed1f3038376f7371)
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
