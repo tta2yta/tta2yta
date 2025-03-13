@@ -15,7 +15,7 @@
 const eliVillalejos = {
   lookingFor: "Full-stack web developer" || "Front-end developer"  ,
   pronouns: ["He", "his"],
-  code: [C#, JAVA, PHP, ASP.NET MVC, PYTHON React, HTML/CSS, JAVASCRIPT, Bootstrap, 
+  code: [JAVA, C#, PHP, ASP.NET MVC, PYTHON React, HTML/CSS, JAVASCRIPT, Bootstrap, 
   Tailwind CSS],
   askMeAbout: [football, cycling, food recipes, trip],
   challenge: "I am honing my C# asp.net skilss and picking up  React skills",
